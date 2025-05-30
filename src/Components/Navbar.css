@@ -1,0 +1,23 @@
+.nav{
+    background-color: #2d3b9d;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    padding: 0px 0 0 20px ;
+    align-items: center;
+    justify-content: center;
+}
+.head{
+   
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    align-content: center;
+    height: 60px;
+    border: 1px solid white;
+    padding: 0px 5px;
+    border-radius: 5px;
+   
+}
